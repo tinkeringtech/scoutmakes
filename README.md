@@ -1,4 +1,6 @@
-ScoutMakes STEM Electronic Kits
+**ScoutMakes STEM Electronic Kits**
+
+![ScoutMakes](/assets/combo.jpg)
 
 These are the source design files for the ScoutMakes Electronic Kits
 - ScoutMakes FM Kit
