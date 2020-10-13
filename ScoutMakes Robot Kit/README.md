@@ -1,6 +1,6 @@
 **ScoutMakes Robot STEM Electronic Kits**
 
-**OSHWA UID US000676**
+**Open Source Hardware Association certified OSHWA UID US000676**
 
 These are the source design files for the ScoutMakes Robot Electronic Kit.
 
