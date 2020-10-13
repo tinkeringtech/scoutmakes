@@ -1,12 +1,9 @@
-ScoutMakes STEM Electronic Kits
+**ScoutMakes FM radio STEM Electronic Kit**
 
-These are the source design files for the ScoutMakes Electronic Kits
-- ScoutMakes FM Kit
-- ScoutMakes Robot Kit
-- ScoutMakes Azul
+These are the source design files for the ScoutMakes FM radio Electronic Kit.
 
 The kits can be bought at https://www.scoutmakes.com.
-Please support this eduactiional company by buying our products focused on cultivating more engineers!
+Please support this educational company by buying our products focused on cultivating more engineers!
 
 Designed by TinkeringTech.
 License: Creative Commons ShareAlike 3.0 United States (CC BY-SA 3.0 US)
