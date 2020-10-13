@@ -4,7 +4,8 @@
 
 These are the source design files for the ScoutMakes Azul Bluetooth BLE Electronic Kit.
 
-The kits can be bought at https://www.scoutmakes.com.
+The kits can be bought at https://www.scoutmakes.com or https://www.tindie.com/products/tinkeringtech/scoutmakes-azul-nrf52840-bluetooth-maker-platform/
+
 Please support this eduactiional company by buying our products focused on cultivating more engineers!
 
 Designed by TinkeringTech.
