@@ -1,4 +1,5 @@
 **ScoutMakes FM radio STEM Electronic Kit**
+**Open Source Hardware Association certified OSHWA UID US000675**
 
 These are the source design files for the ScoutMakes FM radio Electronic Kit.
 
