@@ -1,4 +1,5 @@
 **ScoutMakes Robot STEM Electronic Kits**
+![ScoutMakes](/Robot kit pictures/robotkit_1.JPG)
 
 **Open Source Hardware Association certified OSHWA UID US000676**
 
