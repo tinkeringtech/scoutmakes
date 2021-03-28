@@ -7,6 +7,8 @@ These are the source design files for the ScoutMakes Robot Electronic Kit.
 The kits can be bought at https://www.scoutmakes.com.
 Please support this eduactiional company by buying our products focused on cultivating more engineers!
 
+The Chassis 3D print TinkerCad files can be found at https://www.tinkercad.com/things/9izqkyQWX8r
+
 Designed by TinkeringTech.
 License: Creative Commons ShareAlike 3.0 United States (CC BY-SA 3.0 US)
 License: MIT License
