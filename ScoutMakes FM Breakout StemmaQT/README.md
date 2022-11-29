@@ -1,4 +1,4 @@
-**ScoutMakes FM radio STEM Electronic Kit**
+**ScoutMakes FM breakout STEMMA QT/QWIIC I2C**
 
 These are the source design files for the ScoutMakes FM Radio Board STEMMA/Qwiic I2C.
 
